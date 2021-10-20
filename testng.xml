@@ -13,7 +13,7 @@
 					<include name="deleteLead"></include>
 					<include name="createlead"></include>
 					<include name="editLead"></include>
-					<!-- <exclude name="duplicateLead"></exclude> -->
+					<!-- <exclude name="duplicateLeadS"></exclude> -->
 				</methods>
 
 			</class>
